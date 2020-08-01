@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem.js tests Shoul show the GifGridItem component 1`] = `
+<div
+  className="card animate__animated animate__bounceIn"
+>
+  <img
+    alt="Perro chocolo"
+    src="https://localhost/jefe.jpg"
+  />
+  <p>
+    Perro chocolo
+  </p>
+</div>
+`;
